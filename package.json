@@ -1,0 +1,24 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "Describe weather here",
+  "private": true,
+  "scripts": {
+    "build": "nwb build-preact-app",
+    "clean": "nwb clean-app",
+    "start": "nwb serve-preact-app",
+    "test": "nwb test-preact",
+    "test:coverage": "nwb test-preact --coverage",
+    "test:watch": "nwb test-preact --server"
+  },
+  "dependencies": {
+    "preact": "^7.2.1",
+    "preact-compat": "^3.14.3"
+  },
+  "devDependencies": {
+    "nwb": "0.15.x"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": ""
+}
