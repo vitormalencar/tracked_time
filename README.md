@@ -1,3 +1,2 @@
-# weather
-
-Describe weather here.
+# Get current time
+just a tryout using tracked
