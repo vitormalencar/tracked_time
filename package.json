@@ -1,6 +1,6 @@
 {
-  "name": "weather",
-  "version": "1.0.0",
+  "name": "tracked_time",
+  "version": "0.0.1",
   "description": "Describe weather here",
   "private": true,
   "scripts": {
@@ -18,7 +18,22 @@
   "devDependencies": {
     "nwb": "0.15.x"
   },
-  "author": "",
+  "author": "vitormalencar",
   "license": "MIT",
-  "repository": ""
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vitormalencar/tracked_time.git"
+  },
+  "main": "nwb.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [
+    "preact",
+    "tracked"
+  ],
+  "bugs": {
+    "url": "https://github.com/vitormalencar/tracked_time/issues"
+  },
+  "homepage": "https://github.com/vitormalencar/tracked_time#readme"
 }
